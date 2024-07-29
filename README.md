@@ -6,6 +6,4 @@ The project's report video explains the bread and butter of the project. There i
 A ResNet Deep learing model is used to classify the the disease the leaf is being effected with.
 The data used to train the model is "New Plant disease detection" dataset which is obtained from kaggle and available with numerous sources.
 
-!Note:- This project is built as a part of our college's Project School.
-
 There is also a report on the project in the form of pdf which has all the details that are needed to know about the project.   
